@@ -1,0 +1,180 @@
+- model: webapp.company
+  pk: 1
+  fields:
+    name: Goodyear
+    address: Singapore
+    phone_number: +62 1111 2222
+    logo: https://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_auto/dknzfh0rdiqdcnhftfy1/most-iconic-brand-logos-goodyear
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 2
+  fields:
+    name: Volvo
+    address: Philippines
+    phone_number: +62 1931 2243
+    logo: https://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_auto/isg7nee6gadpoqwteqej/most-iconic-brand-logos-volvo
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 3
+  fields:
+    name: Barbie
+    address: Singapore
+    phone_number: +62 1111 2222
+    logo: https://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_auto/qcxqj1c8ceskbfcpaz3v/most-iconic-brand-logos-barbie
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 4
+  fields:
+    name: Pepsi
+    address: Philippines
+    phone_number: +62 1931 2243
+    logo: https://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_auto/mzyfce19rw177ct3jmhz/most-iconic-brand-logos-pepsi
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 5
+  fields:
+    name: Nike
+    address: Thailand
+    phone_number: +62 1111 2222
+    logo: https://s3.scoopwhoop.com/anj/logos/300977194.jpg
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 6
+  fields:
+    name: Puma
+    address: US
+    phone_number: +62 1931 2243
+    logo: http://bloggingexperiment.com/wp-content/uploads/am/content/2012/05/puma_thumb.jpg
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 7
+  fields:
+    name: Adidas
+    address: China
+    phone_number: +62 1111 2222
+    logo: http://www.funcage.com/blog/wp-content/uploads/2014/11/Adidas-550x365.png
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 8
+  fields:
+    name: Levi's
+    address: Makati, Philippines
+    phone_number: +62 8700 0023
+    logo: https://i.pinimg.com/originals/f4/ae/17/f4ae17e0fdef8361185405752c460bd5.png
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 9
+  fields:
+    name: Lexus
+    address: Malaysia
+    phone_number: +62 7621 8349
+    logo: https://d2w9rnfcy7mm78.cloudfront.net/398293/display_86c68e9c5d550eb69c461574ae2a84df.png?1435749052
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 10
+  fields:
+    name: Louis Vuitton
+    address: Vietnam
+    phone_number: +62 8589 9123
+    logo: https://www.logodesignteam.com/blog/wp-content/uploads/2018/09/louis-vuitton-logo.jpg
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 11
+  fields:
+    name: WWF
+    address: Singapore
+    phone_number: +62 1732 1653
+    logo: https://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_auto/nmnjnwztp2yfsgmn6gdy/most-iconic-brand-logos-wwf
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 12
+  fields:
+    name: Google
+    address: Philippines
+    phone_number: +63 936 8502288
+    logo: https://ebaqdesign.com/wp-content/uploads/2016/09/00000001028.png
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 13
+  fields:
+    name: Shell
+    address: France
+    phone_number: +62 8132 2353
+    logo: http://im.rediff.com/money/2012/jun/25logo12.jpg
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 14
+  fields:
+    name: Lego
+    address: Indonesia
+    phone_number: +62 8134 1934
+    logo: https://images.complex.com/complex/images/c_limit,w_680/fl_lossy,pg_1,q_auto/muumuitoplt1nngj3mpp/most-iconic-brand-logos-lego
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 15
+  fields:
+    name: Motorola
+    address: Singapore
+    phone_number: +62 7813 9139
+    logo: http://im.rediff.com/money/2012/jun/25logo10.jpg
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 16
+  fields:
+    name: Toblerone
+    address: Jehliu, Taiwan
+    phone_number: +62 8123 8293
+    logo: https://www.popwebdesign.net/popart_blog/wp-content/uploads/2016/07/Brand-logos-with-hidden-messages.jpg
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 17
+  fields:
+    name: Selecta
+    address: Singapore
+    phone_number: +62 1923 8040
+    logo: http://www.iamwire.com/wp-content/uploads/2017/05/kwality-walls.png
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 18
+  fields:
+    name: Beats
+    address: Vietnam
+    phone_number: +62 8345 8134
+    logo: https://img.buzzfeed.com/buzzfeed-static/static/2016-11/3/5/asset/buzzfeed-prod-web03/sub-buzz-12185-1478166849-1.png?downsize=700:*&output-format=auto&output-quality=auto
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 19
+  fields:
+    name: Amazon
+    address: Singapore
+    phone_number: +62 8342 1956
+    logo: http://designbeep.designbeep.netdna-cdn.com/wp-content/uploads/2014/03/1.Brand-Logos-with-Hidden-Messages.jpg
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
+- model: webapp.company
+  pk: 20
+  fields:
+    name: Pringles
+    address: Philippines
+    phone_number: +62 5542 9029
+    logo: https://digitalsynopsis.com/wp-content/uploads/2018/03/female-brand-logos-womens-day-pringles.gif
+    created_on: 2018-12-28 00:00:00
+    modified_on: 2018-12-28 00:00:00
